@@ -1,3 +1,5 @@
+// 第一讲： 数据类型
+
 // 布尔类型
 // let bool: boolean = false
 let bool: boolean
